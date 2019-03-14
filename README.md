@@ -1,6 +1,6 @@
 # boilerplate
 
-> Nuxt + Vue + Congraph CMS boilerplate by WRPM.
+> Nuxt + Vue + Congraph CMS boilerplate.
 
 ## Build Setup
 
