@@ -1,0 +1,307 @@
+[{
+  "name": "ŠTAMPA SISTEM",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:stampa",
+    "label": "Sistem za štampu"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/upravljanje-maloprodajnim-lancem-od-600-kioska/",
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "FUTURAPLUS",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/najveci-maloprodajni-lanac-u-srbiji-i-regionu/",
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "LILLY",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:marketing",
+    "label": "Sistem marketinške prodaje"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/najpopularnija-maloprodajna-mreza-drogerija-u-srbiji/",
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "GORENJE",
+  "location": "Velenje, Slovenija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:marketing",
+    "label": "Sistem marketinške prodaje"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/maloprodaja-i-distribucija-bele-tehnike-i-kucnih-aparata/",
+  "category": "Maloprodaja",
+  "city": "Velenje",
+  "country": "Slovenija"
+}, {
+  "name": "GRUPPO COIN HR",
+  "location": "Zagreb, Hrvatska",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/upravljanje-kompanijom-iz-italije/",
+  "category": "Maloprodaja",
+  "city": "Zagreb",
+  "country": "Hrvatska"
+}, {
+  "name": "ĐAK",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }],
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "GOMEX",
+  "location": "Zrenjanin, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:marketing",
+    "label": "Sistem marketinške prodaje"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/upravljanje-maloprodajnim-lancem-robe-siroke-potrosnje/",
+  "category": "Maloprodaja",
+  "city": "Zrenjanin",
+  "country": "Srbija"
+}, {
+  "name": "SWISSLION TAKOVO",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:marketing",
+    "label": "Sistem marketinške prodaje"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/mreza-maloprodajnih-objekata-slatke-kuce/",
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "HLEB I KIFLE",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:sapiens",
+    "label": "Sistem za podršku u odlučivanju"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/najveci-lanac-pekara-u-srbiji/",
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "GORENJE",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }],
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "GRUPPO COIN",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }],
+  "category": "Maloprodaja",
+  "city": "Beograd",
+  "country": "Srbija"
+}, {
+  "name": "ALBI & FASHION",
+  "location": "Priština, Kosovo",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }],
+  "category": "Maloprodaja",
+  "city": "Priština",
+  "country": "Kosovo"
+}, {
+  "name": "FASHION GROUP MK",
+  "location": "Skoplje, Makedonija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label": "Sistem za upravljanje ljudskim resursima"
+  }, {
+    "value": "asw:mercantis",
+    "label": "Sistem za upravljanje maloprodajnim objektima"
+  }, {
+    "value": "asw:pontis",
+    "label": "Sistem za razmenu podataka"
+  }, {
+    "value": "asw:PDA",
+    "label": "PDA sistem"
+  }],
+  "case": "Saznaj više iz studije slučaja…",
+  "case_url": "http://www.asw.eu/veleprodaja-i-maloprodaja-sportske-i-modne-odece-i-obuce/",
+  "category": "Maloprodaja",
+  "city": "Skoplje",
+  "country": "Makedonija"
+}, {
+  "name": "MPC ADRIATIC",
+  "location": "Beograd, Srbija",
+  "products": [{
+    "value": "asw:dominus",
+    "label": "Centralni ERP Sistem"
+  }, {
+    "value": "asw:opus",
+    "label"...

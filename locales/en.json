@@ -1,0 +1,28 @@
+{
+  "en": "EN",
+  "description": "Description",
+  "realisation": "Realisation",
+  "readmore": "Read more",
+  "company": "Company",
+  "products": "Products",
+  "menu": "Menu",
+  "services": "Services",
+  "caseStudies": "Case Studies",
+  "clients": "Clients",
+  "clientsStatsTitle": "Clients",
+  "Products And Solutions": "",
+  "sectionTitle": {
+      "homeAbout": "About Us",
+      "homeProducts": "Products <br>and Solutions",
+      "homeServices": "Services",
+      "aboutHistory": "Our History",
+      "aboutMission": "Where Are <br>We Headed",
+      "aboutGoals": "Development Goals",
+      "aboutQuality": "Certificates",
+      "aboutAwards": "Awards",
+      "caseStudies": "Case Studies",
+      "latestNews": "Recent News",
+      "openPositions": "Open Positions",
+      "activities": "Our Activities"
+  }
+}

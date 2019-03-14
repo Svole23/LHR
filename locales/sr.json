@@ -1,0 +1,27 @@
+{
+  "en": "EN",
+  "description": "Opis",
+  "realisation": "Relizacija",
+  "readmore": "Saznaj više",
+  "company": "Kompanija",
+  "products": "Proizvodi",
+  "menu": "Meni",
+  "services": "Usluge",
+  "caseStudies": "Studije Slučaja",
+  "clients": "Klijenti",
+  "clientsStatsTitle": "Klijenata",
+  "sectionTitle": {
+      "homeAbout": "O Nama",
+      "homeProducts": "Proizvodi <br>i Rešenja",
+      "homeServices": "Usluge",
+      "aboutHistory": "Naša Istorija",
+      "aboutMission": "Gde Smo Krenuli",
+      "aboutGoals": "Ciljevi Razvoja",
+      "aboutQuality": "Sertifikati Kvaliteta",
+      "aboutAwards": "Nagrade",
+      "caseStudies": "Studije Slučaja",
+      "latestNews": "Vesti",
+      "openPositions": "Otvorene Pozicije",
+      "activities": "Aktivnosti"
+  }
+}
